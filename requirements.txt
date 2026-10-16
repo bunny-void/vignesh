@@ -1,0 +1,9 @@
+# Human Emergency Detector - tested-together versions.
+# Use Python 3.10, 3.11 or 3.12 (MediaPipe 0.10.14 does not support 3.13).
+streamlit==1.39.0
+streamlit-webrtc==0.47.9
+pyarrow==18.1.0
+mediapipe==0.10.14
+opencv-contrib-python==4.10.0.84
+numpy==1.26.4
+av==12.3.0
